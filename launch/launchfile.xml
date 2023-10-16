@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg="laserscanner" exec="laserdrive" name="laserscanner" namespace="caiden"/>
+	
+</launch>
